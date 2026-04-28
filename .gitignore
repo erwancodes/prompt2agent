@@ -8,3 +8,6 @@ dist
 
 # Landing page lives in its own repo (erwancodes/prompt2agent_landing)
 web/
+
+# Internal — keep local
+PRD.md
