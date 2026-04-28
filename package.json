@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A universal skill for AI IDEs that turns /Prompt2Agent <prompt> into a complete, deploy-ready agent.",
   "license": "MIT",
-  "author": "Erwan Sagnardon <pro.erwantv@gmail.com>",
+  "author": "Erwan Sagnardon (@erwancodes)",
   "homepage": "https://prompt2agent.dev",
   "repository": {
     "type": "git",

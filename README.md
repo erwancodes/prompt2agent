@@ -17,7 +17,6 @@ No backend. No keys to configure. Your IDE's model reads the skill, asks itself 
 
 - Open an [issue](https://github.com/erwancodes/prompt2agent/issues) or a [PR](https://github.com/erwancodes/prompt2agent/pulls)
 - DM [@erwancodes](https://github.com/erwancodes) on GitHub
-- Email: `pro.erwantv@gmail.com`
 
 ---
 
