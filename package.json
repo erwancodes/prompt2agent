@@ -1,0 +1,31 @@
+{
+  "name": "prompt2agent",
+  "version": "0.1.0",
+  "description": "A universal skill for AI IDEs that turns /Prompt2Agent <prompt> into a complete, deploy-ready agent.",
+  "license": "MIT",
+  "author": "Erwan Sagnardon <pro.erwantv@gmail.com>",
+  "homepage": "https://prompt2agent.dev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erwancodes/prompt2agent"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "skill",
+    "claude",
+    "openai",
+    "anthropic",
+    "langchain",
+    "claude-code",
+    "cursor",
+    "codex",
+    "prompt-engineering"
+  ],
+  "files": [
+    "skills",
+    "examples",
+    "README.md",
+    "LICENSE"
+  ]
+}
